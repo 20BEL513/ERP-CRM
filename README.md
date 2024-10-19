@@ -4,7 +4,7 @@
     </a>
     <h1>Open Source ERP / CRM Accounting Invoice Quote</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple To Use</p>
+        <p>RRAKESH ERP CRM | Simple To Use</p>
     </p>
     
 
@@ -12,7 +12,7 @@
  Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
 ```
 
-IDURAR is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+RRAKESH is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 </div>
 
@@ -34,9 +34,9 @@ Ant Design Framework(AntD) 🐜
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-### May i can use IDURAR for Commercial use :
+### May i can use RRAKESH for Commercial use :
 
-- Yes You can use IDURAR for free for personal or Commercial use.
+- Yes You can use RRAKESH for free for personal or Commercial use.
 
 ## Our Sponsors
 
@@ -50,7 +50,7 @@ Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
 ## Free Open Source ERP / CRM App
 
-IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+RRAKESH is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 
 ## Getting started
@@ -98,4 +98,4 @@ Dont forget to give a ⭐️ to this project ... Happy coding!
 
 ## License
 
-IDURAR is Free Open Source Released under the GNU Affero General Public License v3.0.
+RRAKESH is Free Open Source Released under the GNU Affero General Public License v3.0.
